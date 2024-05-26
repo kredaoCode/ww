@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.a247450b.css",
-    "main.js": "/static/js/main.5ac6223d.js",
-    "static/media/bg-main.png": "/static/media/bg-main.6a1414691cae5111d643.png",
-    "static/media/bg-create-request.png": "/static/media/bg-create-request.a66c15d2186584170912.png",
-    "static/media/TTTravels-MediumItalic.ttf": "/static/media/TTTravels-MediumItalic.98f5ea1070b95dc5e60c.ttf",
-    "static/media/TTTravels-Light.ttf": "/static/media/TTTravels-Light.a352a5270863e74646ea.ttf",
-    "static/media/TTTravels-DemiBold.ttf": "/static/media/TTTravels-DemiBold.64b51d1b5dca6e0a1dea.ttf",
-    "static/media/TTTravels-Medium.ttf": "/static/media/TTTravels-Medium.3ed3b930aabe28ad2a03.ttf",
-    "static/media/example-1.jpg": "/static/media/example-1.3aa74bb3d713b7d0d63e.jpg",
-    "static/media/about-us.jpg": "/static/media/about-us.3d68cece46e03e8eed4d.jpg",
-    "static/media/about-us1.jpg": "/static/media/about-us1.265905a4176f426bfd38.jpg",
-    "index.html": "/index.html",
-    "main.a247450b.css.map": "/static/css/main.a247450b.css.map",
-    "main.5ac6223d.js.map": "/static/js/main.5ac6223d.js.map"
+    "main.css": "./static/css/main.a247450b.css",
+    "main.js": "./static/js/main.5ac6223d.js",
+    "static/media/bg-main.png": "./static/media/bg-main.6a1414691cae5111d643.png",
+    "static/media/bg-create-request.png": "./static/media/bg-create-request.a66c15d2186584170912.png",
+    "static/media/TTTravels-MediumItalic.ttf": "./static/media/TTTravels-MediumItalic.98f5ea1070b95dc5e60c.ttf",
+    "static/media/TTTravels-Light.ttf": "./static/media/TTTravels-Light.a352a5270863e74646ea.ttf",
+    "static/media/TTTravels-DemiBold.ttf": "./static/media/TTTravels-DemiBold.64b51d1b5dca6e0a1dea.ttf",
+    "static/media/TTTravels-Medium.ttf": "./static/media/TTTravels-Medium.3ed3b930aabe28ad2a03.ttf",
+    "static/media/example-1.jpg": "./static/media/example-1.3aa74bb3d713b7d0d63e.jpg",
+    "static/media/about-us.jpg": "./static/media/about-us.3d68cece46e03e8eed4d.jpg",
+    "static/media/about-us1.jpg": "./static/media/about-us1.265905a4176f426bfd38.jpg",
+    "index.html": "./index.html",
+    "main.a247450b.css.map": "./static/css/main.a247450b.css.map",
+    "main.5ac6223d.js.map": "./static/js/main.5ac6223d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a247450b.css",
-    "static/js/main.5ac6223d.js"
+    ".static/css/main.a247450b.css",
+    ".static/js/main.5ac6223d.js"
   ]
 }
